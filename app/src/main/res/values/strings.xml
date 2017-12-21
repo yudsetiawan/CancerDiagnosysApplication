@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">CDA</string>
+
+    <!-- Main Page -->
+    <string name="submit">Submit</string>
+        <!-- Pertanyaan -->
+    <string name="soal1">Apakah Pendarahan Pada Vagina ?</string>
+    <string name="soal2">Pendarahan setelah manopause</string>
+    <string name="soal3">Pendarahan menstruasi yang lebih panjang dan lebih berat dari biasanya</string>
+    <string name="soal4">Kelelahan</string>
+    <string name="soal5">Keluarnya urine atau feses dari vagina</string>
+    <string name="soal6">Kehilangan nafsu makan</string>
+    <string name="soal7">Menurunnya berat badan</string>
+    <string name="soal8">Benjolan pada payudara</string>
+    <string name="soal9">Pembengkakan di area sekitar ketiak, tulang selangka atau payudara</string>
+    <string name="soal10">Penebalan dan kemerahan pada kulit payudara</string>
+    <string name="soal11">Payudara terasa panas dan gatal</string>
+    <string name="soal12">Perubahan pada puting payudara</string>
+    <string name="soal13">Keluar cairan aneh dari dalam puting</string>
+    <string name="soal14">Rasa nyeri pada payudara</string>
+    <string name="soal15">Muncul bercak pada kulit</string>
+    <string name="soal16">Muncul Benjolan pada kulit</string>
+    <string name="soal17">Rasa gatal disertai nyeri dipermukaan kulit</string>
+    <string name="soal18">Adanya perubahan warna kulit pada area tertentu</string>
+    <string name="soal19">Permukaan kulit seperti bersisik</string>
+    <string name="soal20">Tahi lalat yang bertambah ukuran</string>
+    <string name="soal21">Bibir terasa kering</string>
+    <string name="soal22">Epitaksis (mimisan atau pendarahan ringan)</string>
+    <string name="soal23">Benjolan di leher</string>
+    <string name="soal24">Diplopi (penglihatan mengabur atau mengganda)</string>
+    <string name="soal25">Telinga mendenging sebelah </string>
+    <string name="soal26">Hidung tersumbat</string>
+    <string name="soal27">Benjol pada hidung</string>
+    <string name="soal28">Neri perut</string>
+    <string name="soal29">Nyeri ulu hati</string>
+    <string name="soal30">Bengkak kaki dan tangan</string>
+    <string name="soal31">Penyakit kuning</string>
+    <string name="soal32">Batuk yang tak dapat disembuhkan</string>
+    <string name="soal33">Sesak nafas stelah aktifita normal</string>
+    <string name="soal34">Mengalami nyeri pada dada</string>
+    <string name="soal35">Nafs terdengar bersuara</string>
+    <string name="soal36">Nyeri pada tulang</string>
+    <string name="soal37">Sakit kepala yang tak kunjung hilang</string>
+    <string name="soal38">Dema disertai menggigil</string>
+    <string name="soal39">Pemebesaran dibagian kelenjar getah bening</string>
+    <string name="soal40">Pembengkakan yang terjadi tidak disertai rasa nyeri</string>
+    <string name="soal41">Berkeringat pada malam hari</string>
+    <string name="soal42">Ganguan pernafasan</string>
+    <string name="soal43">Darah pada fases</string>
+    <string name="soal44">Ketidaknyamanan diperut</string>
+    <string name="soal45">Kebiasaan bunag air besar berubah</string>
+    <string name="soal46">Adaya benjolan diperut</string>
+    <string name="soal47">Anemia</string>
+    <string name="soal48">Radang usus buntu</string>
+    <string name="soal49">Laporan darah yang abnormal</string>
+    <string name="soal50">Bintik merah pada kulit</string>
+    <string name="soal51">Pendarahan hebat</string>
+        <!-- answere -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
